@@ -24,4 +24,6 @@
     <string name="point">.</string>
     <string name="equal">=</string>
     <string name="backspace"> </string>
+
+    <string name="display">Enter in a value</string>
 </resources>
