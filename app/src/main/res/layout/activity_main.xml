@@ -30,7 +30,7 @@
                     android:id="@+id/buttonclear"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -45,7 +45,7 @@
                     android:id="@+id/buttonparentheses"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -59,7 +59,7 @@
                     android:id="@+id/buttonexponent"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -73,7 +73,7 @@
                     android:id="@+id/buttondivide"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -92,7 +92,7 @@
                     android:id="@+id/buttonseven"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -106,7 +106,7 @@
                     android:id="@+id/buttoneight"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -120,7 +120,7 @@
                     android:id="@+id/buttonnine"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -134,7 +134,7 @@
                     android:id="@+id/buttonmultiply"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -153,7 +153,7 @@
                     android:id="@+id/buttonfour"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -167,7 +167,7 @@
                     android:id="@+id/buttonfive"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -181,7 +181,7 @@
                     android:id="@+id/buttonsix"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -195,7 +195,7 @@
                     android:id="@+id/buttonsubtract"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -214,7 +214,7 @@
                     android:id="@+id/buttonone"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -228,7 +228,7 @@
                     android:id="@+id/buttontwo"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -242,7 +242,7 @@
                     android:id="@+id/buttonthree"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -256,7 +256,7 @@
                     android:id="@+id/buttonadd"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -275,7 +275,7 @@
                     android:id="@+id/buttonplusMinus"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -289,7 +289,7 @@
                     android:id="@+id/buttonzero"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -303,7 +303,7 @@
                     android:id="@+id/buttonpoint"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"
@@ -317,7 +317,7 @@
                     android:id="@+id/buttonequal"
                     style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="0dp"
-                    android:layout_height="70dp"
+                    android:layout_height="50dp"
 
                     android:layout_margin="5dp"
                     android:layout_weight="1"

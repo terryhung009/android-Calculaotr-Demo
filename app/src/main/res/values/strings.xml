@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CalculaotrDemo1</string>
+    <string name="app_name">簡易計算機</string>
 
     <string name="zero">0</string>
     <string name="one">1</string>
