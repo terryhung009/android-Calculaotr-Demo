@@ -7,11 +7,13 @@ import org.mariuszgromada.math.mxparser.*;
 import android.os.Bundle;
 import android.text.SpannableStringBuilder;
 import android.view.View;
+import android.widget.EditText;
 
 import com.hkc.calculaotrdemo1.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
     ActivityMainBinding binding;
+//    EditText display;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
 //        setContentView(R.layout.activity_main);
         binding = DataBindingUtil.setContentView(this,R.layout.activity_main);
 
+//        display = binding.display;
         binding.display.setShowSoftInputOnFocus(false);
 
         binding.display.setOnClickListener(new View.OnClickListener() {
@@ -143,10 +146,7 @@ public class MainActivity extends AppCompatActivity {
         updateText("+");
 
     }
-    public void buttonequal(View view){
 
-
-    }
     public void buttonpoint(View view){
         updateText(".");
 
@@ -167,6 +167,19 @@ public class MainActivity extends AppCompatActivity {
 
 
         }
+
+
+    }
+    public void buttonequal(View view){
+        String userExpression = binding.display.getText().toString();
+        userExpression = userExpression.replaceAll("÷","/" );
+        userExpression = userExpression.replaceAll("×","*" );
+
+        Expression expression = new Expression(userExpression);
+
+        String result = String.valueOf(expression.calculate());
+        binding.display.setText(result);
+        binding.display.setSelection(result.length());
 
 
     }
