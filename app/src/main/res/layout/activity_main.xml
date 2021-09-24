@@ -50,6 +50,7 @@
                     android:layout_margin="5dp"
                     android:layout_weight="1"
                     android:background="@drawable/circle"
+                    android:onClick="buttonparentheses"
                     android:text="@string/parentheses"
                     android:textColor="#FFFFFF"
                     android:textSize="24sp" />

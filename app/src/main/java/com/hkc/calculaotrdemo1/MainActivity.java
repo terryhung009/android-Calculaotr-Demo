@@ -2,6 +2,7 @@ package com.hkc.calculaotrdemo1;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
+import org.mariuszgromada.math.mxparser.*;
 
 import android.os.Bundle;
 import android.text.SpannableStringBuilder;
